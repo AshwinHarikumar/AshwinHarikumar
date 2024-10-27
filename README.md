@@ -15,7 +15,6 @@ I'm a passionate second-year B.Tech Computer Science student at SSET, actively e
 ### 📈 Contributions
 - **VibrationTracker App**: Real-time graphing and location tracking for vibration intensity using Flutter.
 - **Bookstore Project**: A full-stack MERN bookstore application.
-- **Event Lead**: Led hands-on Git and GitHub sessions for the FOSS Club at SSET.
 
 ### 📫 Let's Connect
 - **LinkedIn**: [Ashwin Harikumar](www.linkedin.com/in/ashwinharikumar)
