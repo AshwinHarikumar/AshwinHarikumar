@@ -17,5 +17,5 @@ I'm a passionate second-year B.Tech Computer Science student at SSET, actively e
 - **Bookstore Project**: A full-stack MERN bookstore application.
 
 ### 📫 Let's Connect
-- **LinkedIn**: [Ashwin Harikumar](www.linkedin.com/in/ashwinharikumar)
+- **LinkedIn**: [Ashwin Harikumar](www.linkedin.com/in/ashwinharikumar/)
 - **Email**: [achuhari79@gmail.com](mailto:achuhari79@gmail.com)
