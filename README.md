@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashwin Harikumar
 
 ## 💡 About Me
-I'm a passionate second-year B.Tech Computer Science student at SSET, actively exploring new technologies and working on projects. I love collaborating in open-source, organizing events, and contributing to innovative tech communities.
+I'm a passionate third-year B.Tech Computer Science student at SSET, actively exploring new technologies and working on projects. I love collaborating in open-source, organizing events, and contributing to innovative tech communities.
 
 ### 💼 Experience
 - **Tech Head** @ Oratory Society of SSET (OrSo)
